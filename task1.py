@@ -6,3 +6,4 @@ try:
 except Exception as e:
     print(datetime.now(), e , 'xato')
     # xato vaqt
+    # time eror
