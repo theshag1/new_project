@@ -5,3 +5,4 @@ try:
     a+b
 except Exception as e:
     print(datetime.now(), e , 'xato')
+    # xato vaqt
