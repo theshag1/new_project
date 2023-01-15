@@ -1,7 +1,5 @@
-with open('pupilation_country' , 'r') as f:
+with open('pupilation_country') as f:
     data = f.readlines()
-    contry_name = []
-    for i in range( 1, len(data)):
+    for i in range(1, len(data)):
         line = data[i]
-        print(line.split( ', ')[0].split('"')[1])
-        contry_name.append(line.split(",")[0])
+        if line.split(',')[2].split('"')[0]>200000:
