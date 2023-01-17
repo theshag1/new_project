@@ -14,5 +14,3 @@ def get_popilation():
                 result.append(f"{name} : {count}")
     return result
 
-# not eror
-print(get_popilation())
