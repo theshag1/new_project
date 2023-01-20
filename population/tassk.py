@@ -1,7 +1,7 @@
 def get_popilation():
     import csv
 
-    with open('world_pupile.csv') as f:
+    with open('../uzbcountry/world_pupile.csv') as f:
         lines = f.readlines()
         result = []
     for line in lines:
