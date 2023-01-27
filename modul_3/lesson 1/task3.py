@@ -1,14 +1,14 @@
-def add_func(func):
-    def add_result_func(number, number_2):
-        return (number + number_2) * 2
+def func_way(func):
+    def get_number(num, num2):
+        return (num + num2) * 2
 
-    return add_result_func
-
-
-@add_func
-def target(number, number_2):
-    return number + number_2
+    return get_number
 
 
-result = target(2, 3)
+@func_way
+def target(num, num2):
+    return num + num2
+
+
+result = target(4, 5)
 print(result)
