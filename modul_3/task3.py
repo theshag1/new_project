@@ -1,12 +1,14 @@
-def get_num(n):
-    def num(x):
-        count = x + n
-        return count * 2
+def add_func(func):
+    def add_result_func(number, number_2):
+        return (number + number_2) * 2
 
-    return num
+    return add_result_func
 
 
-get_there = get_num(3)
-get_two = get_num(2)
-get_five = get_num(5)
-print(get_five(5))
+@add_func
+def target(number, number_2):
+    return number + number_2
+
+
+result = target(2, 3)
+print(result)

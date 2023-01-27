@@ -2,11 +2,12 @@ def get_next_multiple(num):
     count = num
     while True:
         yield num
-        num *= count
+        num += count
 
 
-number = get_next_multiple(2)
+number = get_next_multiple(5)
 iterator = iter(number)
+print(iterator.__next__())
 print(iterator.__next__())
 print(iterator.__next__())
 print(iterator.__next__())
