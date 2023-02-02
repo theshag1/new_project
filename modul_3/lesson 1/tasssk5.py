@@ -13,5 +13,5 @@ def all_get(lst):
     return sum((i for i in range(len(lst))))
 
 
-lst = [1, 2, 4, 4,5]
+lst = [1, 2, 4, 4, 5]
 print(all_get(lst))
