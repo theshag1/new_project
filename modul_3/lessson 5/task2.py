@@ -35,7 +35,8 @@ main.pack(pady=50, padx=90)
 lan1 = StringVar(target)
 lan2 = StringVar(target)
 
-chose = {'English', 'Afrikaans', 'Arabic', 'Armenian', 'Uzbek'}
+chose = {'English', 'Afrikaans', 'Arabic', 'Armenian', 'Uzbek' , 'Tajik' , 'Tatar', 'Hindi' , 'Gujarati' ,'Korean' , 'Chinese' ,'Russian' ,'Japanese' , 'Kannada',
+         'Italian' ,'Indonesian' ,'Sanskirt', 'Kazakh' , 'Khmer' , 'Turkish' ,'Turkmen' , 'Portuguese' ,'Kurdish' , 'Dutch' ,'Odia' ,'Ukrainian' ,'Urdu'}
 lan1.set('English')
 
 lan1menu = OptionMenu(main, lan1, *chose)
@@ -54,6 +55,6 @@ Label(main, text='out pout').grid(row=2, column=2)
 var2 = StringVar()
 enter = Entry(main, textvariable=var2).grid(row=2, column=3)
 a = Button(main, text='Translate ', command=translate).grid(row=3, column=1, columnspan=3)
-b =Button(main , text='Exit',command=clouse).grid(row=5 , column=12 , columnspan=5)
+b =Button(main , text='Exit',command=clouse ,width=10).grid(row=5 , column=12 , columnspan=5)
 
 target.mainloop()
