@@ -20,7 +20,7 @@ def clouse():
 
 target = Tk()
 target.title('Translate ')
-target['background'] = 'purple'
+target['background'] = 'black'
 
 
 main = Frame(target)
