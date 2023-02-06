@@ -45,10 +45,15 @@ def exchange():
         var2.set(all)
     else:
         a = lan1.get()  # AUD
+        b = lan2.get()  # bgn
+        s = chose.get(b)
         d = chose.get(a)  # 1.444
-        s = var1.get()  # 100
         s = float(s)
+        d = float(d)
+        l = var1.get()  # 100
+        l =  float(l)
         all = s / d
+        all*=l
         all = str(all)
         var2.set(all)
 
