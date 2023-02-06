@@ -17,7 +17,6 @@ def hourly():
         a = json.load(f)
         nmadr = a.get('timelines')
         b = nmadr.get('hourly')
-
         data1 = b[0].get('time')
         data_time.set(data1)
         val = b[0].get('values')
@@ -177,6 +176,8 @@ chose = {'Tashkent', 'Samarkand'}
 menu1 = OptionMenu(target, lan1, *chose).place(x=900, y=100)
 # add = Button(target, text='FIND(MINUTLY) 🔍', width=15, command=get_var1).place(x=710, y=150)
 add2 = Button(target, text='FIND(HOURLY) 🔍', width=15, command=hourly).place(x=580, y=150)
+add_btn = Button(target , text='input date' , width=10).place(x=150  , y=100)
+add_label = Entry(target , width=15 ).place(x=10 ,y=100)
 
 data_time = StringVar()
 name1 = Label(target, text='Date : ').place(x=10, y=200)
