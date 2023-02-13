@@ -52,6 +52,7 @@ LATIN_TO_CYRILLIC = {
     "z": "з",
     "Z": "З",
     "ʼ": "ъ",
+    "o'":"у"
 }
 LATIN_VOWELS = ("a", "A", "e", "E", "i", "I", "o", "O", "u", "U", "o‘", "O‘")
 
