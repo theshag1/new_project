@@ -1,5 +1,5 @@
 import telebot
-from modul_3.for_bot_part1.todo_bot import Env
+from modul_3.forbotparrt1.todo_bot import Env
 import csv
 
 
