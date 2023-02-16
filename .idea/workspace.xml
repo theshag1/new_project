@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed9b14c1-6647-4824-acfe-c005e3c7a2b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/modul_3/lesson6/new_test.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/new_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/new_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/get_gdp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/for_bot_part1/.env" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/for_bot_part1/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/for_bot_part1/exchange_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/for_bot_part1/exchange_bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/for_bot_part1/todo_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/for_bot_part1/todo_bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson 6/json.md" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson6/json.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson 6/new_test.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson 6/saveexchange.csv" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson6/saveexchange.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson 6/task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson6/task 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson 6/task 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson6/task 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson 6/weather.json" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson6/weather.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson 6/work_with_json/compitur.json" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson6/work_with_json/compitur.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson 6/work_with_json/environs.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson6/work_with_json/environs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson 6/work_with_json/json_work.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson6/work_with_json/json_work.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson 6/work_with_json/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson6/work_with_json/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson9/tesst.py" beforeDir="false" />
+    <list default="true" id="ed9b14c1-6647-4824-acfe-c005e3c7a2b1" name="Changes" comment="AG">
+      <change afterPath="$PROJECT_DIR$/modul_3/lesson10/trello_uz_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_3/lesson9/commands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_3/lesson9/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_3/lesson9/uiteles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul_3/lesson10/tesst.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson10/asda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul_3/lesson9/for_pdp.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson9/for_pdp.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,7 +29,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LhNqBIL3sMTbcgKwtUJEPQL4v7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,10 +40,16 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.exchange_bot">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shagi\new_project\modul_3\lesson9" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.for_pdp">
     <configuration name="exchange_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="new_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,6 +64,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_3/for_bot_part1/exchange_bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="for_pdp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_3/lesson9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_3/lesson9/for_pdp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="latin_kriyl_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_3/for_bot_part1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_3/for_bot_part1/latin_kriyl_bot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,8 +138,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="trello_uz_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_3/lesson10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_3/lesson10/trello_uz_bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.for_pdp" />
+        <item itemvalue="Python.latin_kriyl_bot" />
+        <item itemvalue="Python.trello_uz_bot" />
         <item itemvalue="Python.exchange_bot" />
         <item itemvalue="Python.task 1" />
       </list>
@@ -108,8 +179,31 @@
       <option name="presentableId" value="Default" />
       <updated>1676319543398</updated>
       <workItem from="1676319547278" duration="2872000" />
-      <workItem from="1676412574740" duration="2041000" />
+      <workItem from="1676412574740" duration="5580000" />
+      <workItem from="1676459700873" duration="24657000" />
     </task>
+    <task id="LOCAL-00001" summary="AG">
+      <created>1676414849805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676414849806</updated>
+    </task>
+    <task id="LOCAL-00002" summary="AG">
+      <created>1676414887814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676414887814</updated>
+    </task>
+    <task id="LOCAL-00003" summary="AG">
+      <created>1676463517127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676463517127</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,8 +220,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AG" />
+    <option name="LAST_COMMIT_MESSAGE" value="AG" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/new_project$task_1.coverage" NAME="task 1 Coverage Results" MODIFIED="1676322038921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson6" />
+    <SUITE FILE_PATH="coverage/new_project$trello_uz_bot.coverage" NAME="trello_uz_bot Coverage Results" MODIFIED="1676464187935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson10" />
     <SUITE FILE_PATH="coverage/new_project$exchange_bot.coverage" NAME="exchange_bot Coverage Results" MODIFIED="1676414621204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
+    <SUITE FILE_PATH="coverage/new_project$for_pdp.coverage" NAME="for_pdp Coverage Results" MODIFIED="1676495942793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson9" />
+    <SUITE FILE_PATH="coverage/new_project$latin_kriyl_bot.coverage" NAME="latin_kriyl_bot Coverage Results" MODIFIED="1676495228236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
   </component>
 </project>
