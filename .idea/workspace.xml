@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed9b14c1-6647-4824-acfe-c005e3c7a2b1" name="Changes" comment="bot">
-      <change afterPath="$PROJECT_DIR$/modul_3/lesson9/registration.md" afterDir="false" />
+    <list default="true" id="ed9b14c1-6647-4824-acfe-c005e3c7a2b1" name="Changes" comment="mdfille">
+      <change afterPath="$PROJECT_DIR$/modul_3/lesson10/chats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_3/lesson10/commands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_3/lesson10/fortrello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_3/lesson10/keybords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_3/lesson10/states.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_3/lesson10/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson9/Student_info.csv" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson9/Student_info.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul_3/lesson10/asda.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson10/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul_3/lesson10/trello_uz_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson10/trello_uz_bot.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +48,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shagi\new_project\modul_3\lesson10" />
       <recent name="C:\Users\shagi\new_project\modul_3\lesson9" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.for_pdp">
+  <component name="RunManager" selected="Python.trello_uz_bot">
     <configuration name="exchange_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="new_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,9 +165,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.trello_uz_bot" />
         <item itemvalue="Python.for_pdp" />
         <item itemvalue="Python.latin_kriyl_bot" />
-        <item itemvalue="Python.trello_uz_bot" />
         <item itemvalue="Python.exchange_bot" />
         <item itemvalue="Python.task 1" />
       </list>
@@ -177,7 +184,7 @@
       <workItem from="1676319547278" duration="2872000" />
       <workItem from="1676412574740" duration="5580000" />
       <workItem from="1676459700873" duration="24657000" />
-      <workItem from="1676545740738" duration="638000" />
+      <workItem from="1676545740738" duration="11060000" />
     </task>
     <task id="LOCAL-00001" summary="AG">
       <created>1676414849805</created>
@@ -207,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676546034267</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="mdfille">
+      <created>1676546423103</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676546423103</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,11 +241,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="AG" />
     <MESSAGE value="bot" />
-    <option name="LAST_COMMIT_MESSAGE" value="bot" />
+    <MESSAGE value="mdfille" />
+    <option name="LAST_COMMIT_MESSAGE" value="mdfille" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/new_project$task_1.coverage" NAME="task 1 Coverage Results" MODIFIED="1676322038921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson6" />
-    <SUITE FILE_PATH="coverage/new_project$trello_uz_bot.coverage" NAME="trello_uz_bot Coverage Results" MODIFIED="1676464187935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson10" />
+    <SUITE FILE_PATH="coverage/new_project$trello_uz_bot.coverage" NAME="trello_uz_bot Coverage Results" MODIFIED="1676563684510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson10" />
     <SUITE FILE_PATH="coverage/new_project$exchange_bot.coverage" NAME="exchange_bot Coverage Results" MODIFIED="1676414621204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
     <SUITE FILE_PATH="coverage/new_project$for_pdp.coverage" NAME="for_pdp Coverage Results" MODIFIED="1676546196758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson9" />
     <SUITE FILE_PATH="coverage/new_project$latin_kriyl_bot.coverage" NAME="latin_kriyl_bot Coverage Results" MODIFIED="1676495228236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
