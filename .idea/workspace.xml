@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed9b14c1-6647-4824-acfe-c005e3c7a2b1" name="Changes" comment="trello bot" />
+    <list default="true" id="ed9b14c1-6647-4824-acfe-c005e3c7a2b1" name="Changes" comment="trello bot">
+      <change afterPath="$PROJECT_DIR$/modul_3/for_bot_part1/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_3/for_bot_part1/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_3/for_bot_part1/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_3/for_bot_part1/part1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +48,29 @@
       <recent name="C:\Users\shagi\new_project\modul_3\lesson9" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.trello_uz_bot">
+  <component name="RunManager" selected="Python.translate_bot">
+    <configuration name="age_calculator_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_3/for_bot_part1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_3/for_bot_part1/age_calculator_bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="exchange_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="new_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,28 +85,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_3/for_bot_part1/exchange_bot.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="for_pdp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="new_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_3/lesson9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_3/lesson9/for_pdp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="translate_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="new_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,12 +123,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_3/lesson6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_3/for_bot_part1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_3/lesson6/task 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_3/for_bot_part1/translate_bot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.trello_uz_bot" />
-        <item itemvalue="Python.for_pdp" />
-        <item itemvalue="Python.latin_kriyl_bot" />
+        <item itemvalue="Python.translate_bot" />
         <item itemvalue="Python.exchange_bot" />
-        <item itemvalue="Python.task 1" />
+        <item itemvalue="Python.latin_kriyl_bot" />
+        <item itemvalue="Python.age_calculator_bot" />
+        <item itemvalue="Python.trello_uz_bot" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +180,7 @@
       <workItem from="1676319547278" duration="2872000" />
       <workItem from="1676412574740" duration="5580000" />
       <workItem from="1676459700873" duration="24657000" />
-      <workItem from="1676545740738" duration="11362000" />
+      <workItem from="1676545740738" duration="12095000" />
     </task>
     <task id="LOCAL-00001" summary="AG">
       <created>1676414849805</created>
@@ -225,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676564058519</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="trello bot">
+      <created>1676564096971</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676564096971</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,10 +263,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="trello bot" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/new_project$translate_bot.coverage" NAME="translate_bot Coverage Results" MODIFIED="1676578857484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
+    <SUITE FILE_PATH="coverage/new_project$age_calculator_bot.coverage" NAME="age_calculator_bot Coverage Results" MODIFIED="1676578572686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
     <SUITE FILE_PATH="coverage/new_project$task_1.coverage" NAME="task 1 Coverage Results" MODIFIED="1676322038921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson6" />
     <SUITE FILE_PATH="coverage/new_project$trello_uz_bot.coverage" NAME="trello_uz_bot Coverage Results" MODIFIED="1676563994273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson10" />
-    <SUITE FILE_PATH="coverage/new_project$exchange_bot.coverage" NAME="exchange_bot Coverage Results" MODIFIED="1676414621204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
     <SUITE FILE_PATH="coverage/new_project$for_pdp.coverage" NAME="for_pdp Coverage Results" MODIFIED="1676546196758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson9" />
-    <SUITE FILE_PATH="coverage/new_project$latin_kriyl_bot.coverage" NAME="latin_kriyl_bot Coverage Results" MODIFIED="1676495228236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
+    <SUITE FILE_PATH="coverage/new_project$exchange_bot.coverage" NAME="exchange_bot Coverage Results" MODIFIED="1676578835446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
+    <SUITE FILE_PATH="coverage/new_project$latin_kriyl_bot.coverage" NAME="latin_kriyl_bot Coverage Results" MODIFIED="1676578689357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
   </component>
 </project>
