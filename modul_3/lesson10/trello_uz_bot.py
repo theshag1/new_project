@@ -4,7 +4,7 @@ import commands
 from utils import write_chat_to_csv, check_chat_id_from_csv, get_trello_username_by_chat_id, get_member_tasks_message
 from keybords import get_inline_bords_btn, get_lists_btn, get_inline_lists_btn, get_members_btn, get_boards_btn
 from fortrello import TrelloManager
-from modul_3.bot_trello.states import CreateNewTask
+from states import CreateNewTask
 
 # from keybords import get_inline_bords_btn ,get_inline_lists_btn , get_members_btn , get_lists_btn
 
