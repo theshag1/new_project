@@ -4,42 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed9b14c1-6647-4824-acfe-c005e3c7a2b1" name="Changes" comment="trello bot">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/linux.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/img_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul4(Database)/lesson1.md" afterDir="false" />
+    <list default="true" id="ed9b14c1-6647-4824-acfe-c005e3c7a2b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/modul_4/select2/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_4/select2/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_4/select2/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_4/select2/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_4/select2/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_4/select2/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_4/select2/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_4/select2/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_4/select2/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_4/select2/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_4/select2/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_4/select2/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_4/select2/lesson2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_4/select2/like .md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/new_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/new_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_11.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_12.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_13.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_14.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_15.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_16.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_17.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_18.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_19.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_20.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_21.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_22.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_23.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_24.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_25.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_26.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_27.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_28.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_29.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_30.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_31.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_31.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_32.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_33.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_33.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/img_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/img_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul4(Database)/lesson1.md" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/select1/lesson1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,21 +90,23 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/shagi/Projects/new_project&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;database.query.execution&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modul4(Database)/select1" />
       <recent name="C:\Users\shagi\new_project\modul_3\lesson10" />
       <recent name="C:\Users\shagi\new_project\modul_3\lesson9" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task 1">
-    <configuration name="age_calculator_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.name">
+    <configuration name="c_country" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="new_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,12 +114,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_3/for_bot_part1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GDP/c_country" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_3/for_bot_part1/age_calculator_bot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GDP/c_country/c_country.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,6 +164,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_3/for_bot_part1/latin_kriyl_bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GDP/c_country" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GDP/c_country/name.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,10 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.name" />
+        <item itemvalue="Python.c_country" />
         <item itemvalue="Python.translate_bot" />
         <item itemvalue="Python.exchange_bot" />
         <item itemvalue="Python.latin_kriyl_bot" />
-        <item itemvalue="Python.age_calculator_bot" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +263,12 @@
       <workItem from="1677156794811" duration="2150000" />
       <workItem from="1677177174225" duration="26000" />
       <workItem from="1677410424354" duration="9765000" />
-      <workItem from="1677486788461" duration="347000" />
+      <workItem from="1677486788461" duration="4196000" />
+      <workItem from="1677492270817" duration="8632000" />
+      <workItem from="1677504113215" duration="906000" />
+      <workItem from="1677590084656" duration="2941000" />
+      <workItem from="1677650749918" duration="6786000" />
+      <workItem from="1677659488848" duration="3469000" />
     </task>
     <task id="LOCAL-00001" summary="AG">
       <created>1676414849805</created>
@@ -286,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676578938593</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="database">
+      <created>1677487417546</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677487417546</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,9 +362,11 @@
     <MESSAGE value="bot" />
     <MESSAGE value="mdfille" />
     <MESSAGE value="trello bot" />
-    <option name="LAST_COMMIT_MESSAGE" value="trello bot" />
+    <MESSAGE value="database" />
+    <option name="LAST_COMMIT_MESSAGE" value="database" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/new_project$name.coverage" NAME="name Coverage Results" MODIFIED="1677596588033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GDP/c_country" />
     <SUITE FILE_PATH="coverage/new_project$latin_kriyl_bot.coverage" NAME="latin_kriyl_bot Coverage Results" MODIFIED="1676578689357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
     <SUITE FILE_PATH="coverage/new_project$exchange_bot.coverage" NAME="exchange_bot Coverage Results" MODIFIED="1676578835446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
     <SUITE FILE_PATH="coverage/new_project$age_calculator_bot.coverage" NAME="age_calculator_bot Coverage Results" MODIFIED="1676578572686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
