@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed9b14c1-6647-4824-acfe-c005e3c7a2b1" name="Changes" comment="database">
-      <change afterPath="$PROJECT_DIR$/modul_3/password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_4/lesson4/datatype.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_4/lesson4/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_4/lesson4/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_4/lesson4/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_4/lesson4/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_4/lesson4/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_4/lesson4/img_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_4/lesson4/img_6.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GDP/deportament/new_deprtmant.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GDP/get_gdp.py" beforeDir="false" afterPath="$PROJECT_DIR$/GDP/get_gdp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul_4/lesson4/datatype.md" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson4/datatype.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +241,7 @@
       <workItem from="1677670166153" duration="9886000" />
       <workItem from="1677739001362" duration="626000" />
       <workItem from="1677743519116" duration="20192000" />
-      <workItem from="1677829011474" duration="1841000" />
+      <workItem from="1677829011474" duration="4967000" />
     </task>
     <task id="LOCAL-00001" summary="AG">
       <created>1676414849805</created>
@@ -329,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677670267471</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="database">
+      <created>1677833233159</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677833233159</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

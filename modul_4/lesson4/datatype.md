@@ -16,3 +16,6 @@
 
 6 gruop type
 ![img_5.png](img_5.png)
+
+joins
+![img_6.png](img_6.png)
