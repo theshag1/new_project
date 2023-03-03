@@ -6,11 +6,11 @@ def get_gdp():
         lst = []
         for line in lines:
             try:
-                int(line.get("GDP ($ per capita)"))
+                int(line.get(" ($ per capita)"))
             except ValueError as e:
                 print(e)
             else:
-                if int(line.get("GDP ($ per capita)")) > 1000:
+                if int(line.get(" ($ per capita)")) > 1000:
                     lst.append(f"{line.get('Country')}, {line.get('GDP ($ per capita)')}")
 
     return lst
