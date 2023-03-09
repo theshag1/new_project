@@ -1,5 +1,7 @@
 import csv
 import os
+import psycopg2
+from psycopg2.extras import RealDictCursor
 
 
 def write_chat_to_csv(file_path, message):
@@ -11,7 +13,7 @@ def write_chat_to_csv(file_path, message):
         "trello_username": message.text
     }
 
-    with open(file_path, "a", newline="\n",encoding='utf8') as f:
+    with open(file_path, "a", newline="\n", encoding='utf8') as f:
         csv_writer = csv.DictWriter(f, header)
         if os.path.getsize(file_path) == 0:
             csv_writer.writeheader()
@@ -19,6 +21,19 @@ def write_chat_to_csv(file_path, message):
         csv_writer.writerow(row)
     print("Chat add successfully.")
 
+
+def write_databse_trello( fullname ,chat_id , phone):
+    connection = psycopg2.connect(
+        dbname='trello',
+        user='postgres',
+        password='12345',
+        host='localhost',
+        port=5432
+    )
+    cur = connection.cursor(cursor_factory=RealDictCursor)
+    sql = "insert into registration(full_name , chatid ,phone) values (%s, %s, %s)"
+    cur.execute(sql, (fullname ,chat_id ,phone))
+    connection.commit()
 
 
 def check_chat_id_from_csv(file_path, chat_id):

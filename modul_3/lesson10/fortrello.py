@@ -1,6 +1,5 @@
 import requests
 import json
-
 from environs import Env
 
 env = Env()

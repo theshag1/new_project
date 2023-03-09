@@ -1,7 +1,8 @@
 import telebot
 from telebot import custom_filters
 import commands
-from utils import write_chat_to_csv, check_chat_id_from_csv, get_trello_username_by_chat_id, get_member_tasks_message
+from utils import write_chat_to_csv, check_chat_id_from_csv, get_trello_username_by_chat_id, get_member_tasks_message, \
+    write_databse_trello
 from keybords import get_inline_bords_btn, get_lists_btn, get_inline_lists_btn, get_members_btn, get_boards_btn
 from fortrello import TrelloManager
 from states import CreateNewTask
@@ -25,6 +26,12 @@ def welcome(message):
     bot.send_message(message.chat.id, commands.WELCOME_MSG)
 
 
+@bot.message_handler(commands=["help"])
+def say_help(message):
+    bot.send_message(message.chat.id,
+                     'Trello uz bot sizga juda kop qlayliklar tugdirishi mumkn \n misol uchun vazifaalarni bolib berish \n yangi list , doska yaratsh vaxokozo')
+
+
 # /cancel
 @bot.message_handler(commands=["cancel"])
 def welcome(message):
@@ -40,11 +47,11 @@ def register_handler(message):
         bot.send_message(message.chat.id, commands.ALREADY_REGISTERED)
 
 
+
 # Trello username
 def get_trello_username(message):
     write_chat_to_csv("chats.csv", message)
     bot.send_message(message.chat.id, commands.ADD_SUCCESSFULLY)
-
 
 
 @bot.message_handler(commands=["boards"])
@@ -99,6 +106,7 @@ def create_new_task(message):
                 reply_markup=get_inline_bords_btn(trello_username, "new_tasks")
             )
             bot.set_state(message.from_user.id, CreateNewTask.board, message.chat.id)
+
         else:
             bot.send_message(message.chat.id, commands.TRELLO_USERNAME_NOT_FOUND)
 
@@ -115,7 +123,7 @@ def get_new_task_name(call):
     bot.set_state(message.from_user.id, CreateNewTask.list, message.chat.id)
     with bot.retrieve_data(message.from_user.id, message.chat.id) as data:
         data["task_board_id"] = board_id
-
+        print(data)
 
 @bot.message_handler(state=CreateNewTask.list)
 def get_list_id_for_new_task(message):
