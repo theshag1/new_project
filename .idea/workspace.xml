@@ -5,73 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed9b14c1-6647-4824-acfe-c005e3c7a2b1" name="Changes" comment="database">
-      <change afterPath="$PROJECT_DIR$/ChatGPT/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatGPT/chatgpt_bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatGPT/gpt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_3/for_bot_part1/daf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_4/bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_4/lesson2/asd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_4/lesson6/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_4/lesson6/conff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_4/lesson7/exampl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatgpt2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatgpt2/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatgpt2/upgbor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_3/lesson10/oz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_3/lesson10/queries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_3/lesson10/sync.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_3/lesson10/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson 4/new_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson 4/new_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson10/chats.csv" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson10/chats.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul_3/lesson10/.env" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson10/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul_3/lesson10/commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson10/commands.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modul_3/lesson10/fortrello.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson10/fortrello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul_3/lesson10/keybords.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson10/keybords.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modul_3/lesson10/trello_uz_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson10/trello_uz_bot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modul_3/lesson10/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson10/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson9/.env" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson9/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul_3/lesson6/new_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson6/new_test.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modul_3/password.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/password.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_11.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_12.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_13.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_14.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_15.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_16.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_17.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_18.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_19.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_19.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_20.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_21.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_22.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_23.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_24.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_25.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_25.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_26.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_26.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_27.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_27.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_28.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_28.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_29.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_29.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_30.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_30.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_31.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_31.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_32.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_33.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_33.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/img_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/img_9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select1/lesson1.md" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson1/lesson1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select2/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson2/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select2/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson2/img_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select2/img_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson2/img_10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select2/img_11.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson2/img_11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select2/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson2/img_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select2/img_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson2/img_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select2/img_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson2/img_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select2/img_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson2/img_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select2/img_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson2/img_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select2/img_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson2/img_7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select2/img_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson2/img_8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select2/img_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson2/img_9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select2/lesson2.md" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson2/lesson2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_4/select2/like .md" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/lesson2/like .md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +68,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/shagi/Projects/new_project&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -127,6 +78,7 @@
   },
   &quot;keyToStringList&quot;: {
     &quot;DatabaseDriversLRU&quot;: [
+      &quot;redshift&quot;,
       &quot;postgresql&quot;
     ]
   }
@@ -138,8 +90,14 @@
       <recent name="C:\Users\shagi\new_project\modul_3\lesson9" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.gpt">
-    <configuration name="asd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.trello_uz_bot">
+    <configuration name="P10 Trello Postgres.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$USER_HOME$/Downloads/Telegram Desktop/P10 Trello Postgres.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="727526f1-3752-4fbf-a32d-065d777814ef" namespace="database/&quot;trellobot&quot;/schema/&quot;public&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="keybords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="new_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,12 +105,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_4/lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_3/lesson10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_4/lesson2/asd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_3/lesson10/keybords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="password" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="new_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,12 +127,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_4/bot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_3/password.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="chatgpt_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="queries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="new_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,12 +149,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChatGPT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_3/lesson10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChatGPT/chatgpt_bot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_3/lesson10/queries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gpt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sync" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="new_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,12 +171,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChatGPT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_3/lesson10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChatGPT/gpt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_3/lesson10/sync.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.gpt" />
-        <item itemvalue="Python.chatgpt_bot" />
         <item itemvalue="Python.trello_uz_bot" />
-        <item itemvalue="Python.bot" />
-        <item itemvalue="Python.asd" />
+        <item itemvalue="Python.sync" />
+        <item itemvalue="Python.keybords" />
+        <item itemvalue="Python.password" />
+        <item itemvalue="Python.queries" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +270,22 @@
       <workItem from="1678286210340" duration="8503000" />
       <workItem from="1678343621759" duration="2480000" />
       <workItem from="1678348003073" duration="1190000" />
-      <workItem from="1678350539105" duration="10589000" />
+      <workItem from="1678350539105" duration="21147000" />
+      <workItem from="1678385160953" duration="10672000" />
+      <workItem from="1678436012847" duration="5157000" />
+      <workItem from="1678446734916" duration="19399000" />
+      <workItem from="1678482924631" duration="5020000" />
+      <workItem from="1678523594478" duration="3729000" />
+      <workItem from="1678530905229" duration="15299000" />
+      <workItem from="1678612674715" duration="324000" />
+      <workItem from="1678613060821" duration="1025000" />
+      <workItem from="1678614093093" duration="6833000" />
+      <workItem from="1678622437723" duration="2076000" />
+      <workItem from="1678693281606" duration="2989000" />
+      <workItem from="1678705790060" duration="7877000" />
+      <workItem from="1678733212152" duration="3960000" />
+      <workItem from="1678784673106" duration="13657000" />
+      <workItem from="1678800175401" duration="4418000" />
     </task>
     <task id="LOCAL-00001" summary="AG">
       <created>1676414849805</created>
@@ -405,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677840322775</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="database">
+      <created>1678362361225</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678362361225</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,24 +411,31 @@
     <option name="LAST_COMMIT_MESSAGE" value="database" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/new_project$name.coverage" NAME="name Coverage Results" MODIFIED="1677596588033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GDP/c_country" />
-    <SUITE FILE_PATH="coverage/new_project$fortrello.coverage" NAME="fortrello Coverage Results" MODIFIED="1678097999746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson10" />
-    <SUITE FILE_PATH="coverage/new_project$conff.coverage" NAME="conff Coverage Results" MODIFIED="1678286666207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_4/lesson6" />
+    <SUITE FILE_PATH="coverage/new_project$fortrello.coverage" NAME="fortrello Coverage Results" MODIFIED="1678487833715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson10" />
+    <SUITE FILE_PATH="coverage/new_project$upgbor.coverage" NAME="upgbor Coverage Results" MODIFIED="1678370369780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chatgpt2" />
     <SUITE FILE_PATH="coverage/new_project$asd.coverage" NAME="asd Coverage Results" MODIFIED="1678298471878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_4/lesson2" />
-    <SUITE FILE_PATH="coverage/new_project$bot.coverage" NAME="bot Coverage Results" MODIFIED="1678347258305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_4" />
-    <SUITE FILE_PATH="coverage/new_project$latin_kriyl_bot.coverage" NAME="latin_kriyl_bot Coverage Results" MODIFIED="1676578689357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
+    <SUITE FILE_PATH="coverage/new_project$sync.coverage" NAME="sync Coverage Results" MODIFIED="1678802998297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson10" />
     <SUITE FILE_PATH="coverage/new_project$age_calculator_bot.coverage" NAME="age_calculator_bot Coverage Results" MODIFIED="1676578572686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
-    <SUITE FILE_PATH="coverage/new_project$chatgpt_bot.coverage" NAME="chatgpt_bot Coverage Results" MODIFIED="1678358791354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChatGPT" />
-    <SUITE FILE_PATH="coverage/new_project$trello_uz_bot.coverage" NAME="trello_uz_bot Coverage Results" MODIFIED="1678350331306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson10" />
+    <SUITE FILE_PATH="coverage/new_project$chatgpt_bot.coverage" NAME="chatgpt_bot Coverage Results" MODIFIED="1678377654673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChatGPT" />
     <SUITE FILE_PATH="coverage/new_project$task_1.coverage" NAME="task 1 Coverage Results" MODIFIED="1676322038921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson6" />
+    <SUITE FILE_PATH="coverage/new_project$test.coverage" NAME="test Coverage Results" MODIFIED="1678484602367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson10" />
     <SUITE FILE_PATH="coverage/new_project$exampl.coverage" NAME="exampl Coverage Results" MODIFIED="1678286615998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_4/lesson7" />
-    <SUITE FILE_PATH="coverage/new_project$password.coverage" NAME="password Coverage Results" MODIFIED="1677862000372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3" />
     <SUITE FILE_PATH="coverage/new_project$exchange_bot.coverage" NAME="exchange_bot Coverage Results" MODIFIED="1676578835446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
     <SUITE FILE_PATH="coverage/new_project$new_test.coverage" NAME="new_test Coverage Results" MODIFIED="1678107315186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson 4" />
+    <SUITE FILE_PATH="coverage/new_project$daf.coverage" NAME="daf Coverage Results" MODIFIED="1678190700196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
+    <SUITE FILE_PATH="coverage/new_project$queries.coverage" NAME="queries Coverage Results" MODIFIED="1678551674745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson10" />
+    <SUITE FILE_PATH="coverage/new_project$name.coverage" NAME="name Coverage Results" MODIFIED="1677596588033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GDP/c_country" />
+    <SUITE FILE_PATH="coverage/new_project$bot__1_.coverage" NAME="bot (1) Coverage Results" MODIFIED="1678367057623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chatgpt2" />
+    <SUITE FILE_PATH="coverage/new_project$conff.coverage" NAME="conff Coverage Results" MODIFIED="1678286666207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_4/lesson6" />
+    <SUITE FILE_PATH="coverage/new_project$bot.coverage" NAME="bot Coverage Results" MODIFIED="1678347258305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_4" />
+    <SUITE FILE_PATH="coverage/new_project$latin_kriyl_bot.coverage" NAME="latin_kriyl_bot Coverage Results" MODIFIED="1676578689357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
+    <SUITE FILE_PATH="coverage/new_project$trello_uz_bot.coverage" NAME="trello_uz_bot Coverage Results" MODIFIED="1678804361149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson10" />
+    <SUITE FILE_PATH="coverage/new_project$keybords.coverage" NAME="keybords Coverage Results" MODIFIED="1678794530553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson10" />
+    <SUITE FILE_PATH="coverage/new_project$password.coverage" NAME="password Coverage Results" MODIFIED="1678788902908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3" />
     <SUITE FILE_PATH="coverage/new_project$translate_bot.coverage" NAME="translate_bot Coverage Results" MODIFIED="1676578857484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
     <SUITE FILE_PATH="coverage/new_project$for_pdp.coverage" NAME="for_pdp Coverage Results" MODIFIED="1676546196758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson9" />
-    <SUITE FILE_PATH="coverage/new_project$daf.coverage" NAME="daf Coverage Results" MODIFIED="1678190700196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/for_bot_part1" />
-    <SUITE FILE_PATH="coverage/new_project$gpt.coverage" NAME="gpt Coverage Results" MODIFIED="1678361945358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChatGPT" />
+    <SUITE FILE_PATH="coverage/new_project$utils.coverage" NAME="utils Coverage Results" MODIFIED="1678549686164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson10" />
+    <SUITE FILE_PATH="coverage/new_project$gpt.coverage" NAME="gpt Coverage Results" MODIFIED="1678442644388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChatGPT" />
     <SUITE FILE_PATH="coverage/new_project$conf.coverage" NAME="conf Coverage Results" MODIFIED="1677851016162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_4/lesson6" />
   </component>
 </project>

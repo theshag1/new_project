@@ -5,7 +5,10 @@ from telebot.types import (
     InlineKeyboardMarkup
 )
 from fortrello import TrelloManager
-
+from oz import connection
+from psycopg2 .extras import RealDictCursor
+import psycopg2
+import queries
 
 def get_boards_btn(tresllo_user_name):
     boards_btn = ReplyKeyboardMarkup(resize_keyboard=True)
@@ -26,9 +29,12 @@ def get_boards_btn(tresllo_user_name):
         return boards_btn
 
 
-def get_inline_bords_btn(trello_username, action):
+def get_inline_bords_btn(user_id, action):#11
     inline_boards_btn = InlineKeyboardMarkup()
-    boards = TrelloManager(trello_username).get_boards()
+    with connection.cursor(cursor_factory=RealDictCursor) as cur:
+        cur.execute(queries.get_user_board , (user_id ,))
+        boards = cur.fetchall()
+        print(boards)
     if len(boards) % 2 == 0:
         last_board = None
     else:
@@ -36,15 +42,15 @@ def get_inline_bords_btn(trello_username, action):
     for board_index in range(0, len(boards) - 1, 2):
         inline_boards_btn.add(
             InlineKeyboardButton(
-                boards[board_index].get("name"), callback_data=f'{action}_{boards[board_index].get("id")}'
+                boards[board_index].get("name"), callback_data=f'{action}_{boards[board_index].get("board_id")}'
             ),
             InlineKeyboardButton(
-                boards[board_index + 1].get("name"), callback_data=f'{action}_{boards[board_index + 1].get("id")}'
+                boards[board_index + 1].get("name"), callback_data=f'{action}_{boards[board_index + 1].get("board_id")}'
             )
         )
     if last_board:
         inline_boards_btn.add(
-            InlineKeyboardButton(last_board.get("name"), callback_data=f'{action}_{last_board.get("id")}')
+            InlineKeyboardButton(last_board.get("name"), callback_data=f'{action}_{last_board.get("board_id")}')
         )
     return inline_boards_btn
 
