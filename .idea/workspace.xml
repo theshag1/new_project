@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed9b14c1-6647-4824-acfe-c005e3c7a2b1" name="Changes" comment="database">
-      <change afterPath="$PROJECT_DIR$/chatgpt2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatgpt2/bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatgpt2/upgbor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_3/lesson10/oz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_3/lesson10/queries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_3/lesson10/sync.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_3/lesson10/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_4/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_4/postgre_function.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson10/.env" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson10/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson10/commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson10/commands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson10/fortrello.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson10/fortrello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson10/keybords.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson10/keybords.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson10/trello_uz_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson10/trello_uz_bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson10/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson10/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/lesson6/new_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/lesson6/new_test.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modul_3/password.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul_3/password.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,6 +272,7 @@
       <workItem from="1678733212152" duration="3960000" />
       <workItem from="1678784673106" duration="13657000" />
       <workItem from="1678800175401" duration="4418000" />
+      <workItem from="1678862637712" duration="9187000" />
     </task>
     <task id="LOCAL-00001" summary="AG">
       <created>1676414849805</created>
@@ -385,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678362361225</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="database">
+      <created>1678862665035</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678862665035</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
