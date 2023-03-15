@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed9b14c1-6647-4824-acfe-c005e3c7a2b1" name="Changes" comment="database">
-      <change afterPath="$PROJECT_DIR$/modul_4/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modul_4/postgre_function.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ed9b14c1-6647-4824-acfe-c005e3c7a2b1" name="Changes" comment="db">
+      <change afterPath="$PROJECT_DIR$/modul_4/img_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul_4/postgre_function.md" beforeDir="false" afterPath="$PROJECT_DIR$/modul_4/postgre_function.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -272,7 +271,7 @@
       <workItem from="1678733212152" duration="3960000" />
       <workItem from="1678784673106" duration="13657000" />
       <workItem from="1678800175401" duration="4418000" />
-      <workItem from="1678862637712" duration="9187000" />
+      <workItem from="1678862637712" duration="9521000" />
     </task>
     <task id="LOCAL-00001" summary="AG">
       <created>1676414849805</created>
@@ -379,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678862665035</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="db">
+      <created>1678875688054</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1678875688054</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,7 +408,8 @@
     <MESSAGE value="mdfille" />
     <MESSAGE value="trello bot" />
     <MESSAGE value="database" />
-    <option name="LAST_COMMIT_MESSAGE" value="database" />
+    <MESSAGE value="db" />
+    <option name="LAST_COMMIT_MESSAGE" value="db" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/new_project$fortrello.coverage" NAME="fortrello Coverage Results" MODIFIED="1678487833715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modul_3/lesson10" />

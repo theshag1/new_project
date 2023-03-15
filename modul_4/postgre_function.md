@@ -4,4 +4,7 @@ task1
 
 
 task2 
-![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+
+task3
+![img_3.png](img_3.png)
