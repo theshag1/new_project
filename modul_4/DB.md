@@ -1,1 +1,1 @@
-[Untitled.pdf](..%2F..%2F..%2FDownloads%2FUntitled.pdf)
+![img_7.png](img_7.png)
